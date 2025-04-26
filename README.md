@@ -10,8 +10,10 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 081104](https://github.com/user-attachments/assets/1c61cea2-f1e0-4548-aef1-6fec3829ac3d)
 
 ## OUTPUT:
+![Screenshot 2025-04-26 081142](https://github.com/user-attachments/assets/44a1bb1c-4893-4745-82e4-af8329fca9b2)
 
 
 
@@ -46,8 +48,10 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![Screenshot 2025-04-26 084010](https://github.com/user-attachments/assets/c099cc7d-1aca-4be9-b527-be1ad71d2b82)
 
 # OUTPUT:
+![Screenshot 2025-04-26 084021](https://github.com/user-attachments/assets/3500134d-4360-420a-849b-b5d7019e9312)
 
 
 
@@ -80,8 +84,10 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 084832](https://github.com/user-attachments/assets/d3eaec17-d00e-4e90-9b44-619052aca126)
 
 ## OUTPUT:
+![Screenshot 2025-04-26 084913](https://github.com/user-attachments/assets/b1e394cf-49e0-4b4c-97cf-fa0740766b5f)
 
 
 
@@ -111,8 +117,10 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 085328](https://github.com/user-attachments/assets/d3684a3c-db7e-4091-bb75-66a6cb0ca4c7)
 
 ## OUTPUT:
+![Screenshot 2025-04-26 085334](https://github.com/user-attachments/assets/ae8fce13-94a7-4094-98aa-9a573138382e)
 
 
 
@@ -147,8 +155,10 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![Screenshot 2025-04-26 085919](https://github.com/user-attachments/assets/6ddd487a-61a8-48db-9535-7a02d4d50565)
 
 ## OUTPUT:
+![Screenshot 2025-04-26 085926](https://github.com/user-attachments/assets/79ae5d48-f7da-425b-890c-9e73b5862a1c)
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
